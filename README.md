@@ -1,7 +1,7 @@
-# foodwisdom
+# FoodWisdom
 
-A new Flutter application.
-
+A new Flutter application for all the food lovers out there make Recipes of your favourite ingredients.
+Here Api used is : (https://developer.edamam.com/)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
